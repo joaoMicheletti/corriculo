@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+}
+.Faixa_name {
+    margin-top: -22px;
+    height: 110px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Verdana, sans-serif;
+    background-color: rgb(74, 74, 82); 
+}
+.Faixa_name h1 {
+    margin-left: 250px;
+}
+.Img_perfil {
+    margin-top: 30px;
+    border-radius: 50%;
+    height: 180px;
+}
+.Side_bar {
+    text-align: center;
+    margin-top: -109px;
+    width: 250px;
+    height: 900px;
+    background-color: rgb(56, 43, 63);
+    color: rgba(255, 255, 255, 0.658);
+}
+.Side_bar .EM {
+    margin: 10px;
+    width: 60px;
+}
+.Side_bar .LK_EMAIL{
+    margin-left: -10px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.658);
+}
+.Side_bar .LK_WP{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.658);
+}
+a:hover {
+    font-weight: 600;
+}
+.Side_bar .WP {
+    width: 60px;
+}
+.Side_bar .Local {
+    width: 60px;
+}
+section {
+    margin-top: -700px;
+    margin-left: 30%;
+    width: 900px;
+}
+.Objetivo {
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+}
+.Experiencia {
+    text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+}
+.Competencias {
+    text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+
+}
