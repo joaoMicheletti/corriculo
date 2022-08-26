@@ -74,20 +74,24 @@ a:hover {
     margin-top: 0px;
     width: 100%;
     height: 100%;
+    background-color: rgb(56, 43, 63);
 }
 .Objetivo {
     text-align: center;
     font-size: 19px;
     line-height: 25px;
+    background-color: rgb(56, 43, 63);
 }
 .Experiencia {
     text-align: center;
     font-size: 19px;
     line-height: 25px;
+    background-color: rgb(56, 43, 63);
 }
 .Competencias {
     text-align: center;
     font-size: 19px;
     line-height: 25px;
+    background-color: rgb(56, 43, 63);
 
 }
