@@ -29,6 +29,7 @@ h1 {
     display: inline-flex;
     width: 100%;
     height: 100%;
+    background-color: rgb(56, 43, 63);
 }
 .Side_bar .Profile_info {
     justify-content: center;
